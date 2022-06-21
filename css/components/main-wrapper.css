@@ -1,0 +1,32 @@
+.main-wrapper {
+  display: flex;
+  align-items: flex-start;
+  height: 100%;
+}
+
+.main-wrapper .background {
+  height: 100%;
+  width: 50%;
+  background-color: var(--body-bg-color);
+  padding: 6rem 4rem;
+}
+
+.main-wrapper .image {
+  background-image: url(../../assets/images/read_news.jpg);
+  background-repeat: no-repeat;
+  background-position: 75%;
+  background-size: cover;
+  height: 100%;
+  width: 50%;
+}
+
+.background .wrapperText {
+  margin-top: 7rem;
+  margin-bottom: 5rem;
+  width: 90%;
+}
+
+.background .main-title,
+.background .main-subtitle {
+  margin-bottom: 0.9rem;
+}
