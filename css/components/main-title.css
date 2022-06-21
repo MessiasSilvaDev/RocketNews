@@ -1,0 +1,9 @@
+.main-title {
+  display: inline-block;
+  font-family: "Work Sans";
+  font-weight: 700;
+  font-size: 3.2rem;
+  line-height: 120%;
+  color: var(--title-color);
+  text-transform: uppercase;
+}
