@@ -1,0 +1,5 @@
+.main-section {
+  height: 78rem;
+  width: 100vw;
+  background-color: var(--body-bg-color);
+}
