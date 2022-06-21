@@ -1,0 +1,11 @@
+.main-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: calc(8.4rem + 5rem);
+  font-weight: 700;
+  font-size: 1.8rem;
+  line-height: 1.9rem;
+  color: var(--bg-button-color);
+  text-transform: uppercase;
+}
